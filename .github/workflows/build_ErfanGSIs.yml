@@ -19,7 +19,7 @@ env:
   TZ: Asia/Shanghai
 
 jobs:
-
+  ROM_URL: http://91io.cn/s/o9B9PTP/Joyui%E4%BD%93%E9%AA%8C%E7%89%88-MI6.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
