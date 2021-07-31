@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://allall02.baidupcs.com/file/b4c8e3b10i0335b627c59e1e490276fb?bkt=en-cf7b18a7c51d90781f174cb0b039e48fb2745d58502d8c9ec7809d313b0e4aeb3db0f96fc6b13f10&fid=919532926-250528-845818694488592&time=1627715942&sign=FDTAXUbGERQlBHSKfWaqi-DCb740ccc5511e5e8fedcff06b081203-sNJ2J6EbOSm9D73B8tZt9M8b784%3D&to=19&size=4264729211&sta_dx=4264729211&sta_cs=137&sta_ft=zip&sta_ct=5&sta_mt=0&fm2=MH%2CXian%2CAnywhere%2C%2Ctianjin%2Ccnc&ctime=1624962010&mtime=1627715942&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=4264729211&vuk=919532926&iv=2&htype=&randtype=&tkbind_id=0&esl=1&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-a195949be5138ec856d25d105b32e47912d57d0b688d554a875309691d3682f2bb8425845e7d06bb&expires=8h&rt=pr&r=612778754&vbdid=-&fin=joyui_Blackshark3Pro_21.06.07-MOBS2106070CN00DRX_c17d29a65f_11.0.zip&bflag=304,19-19&err_ver=1.0&check_blue=1&rtype=1&devuid=BDIMXV2-O_3C5356010A33432BA69144DD24CE3CAF-C_0-D_0-M_525400923B87-V_0E564ACA&clienttype=8&channel=00000000000000000000000000000000&dp-logid=296802001056775312&dp-callid=0.1&tsl=0&csl=0&fsl=-1&csign=Vyzc3n8zNLGj56tAGcOBgt4ZONE%3D&so=1&ut=1&uter=0&serv=0&uc=3580168543&ti=51d76b5cdb7a87d235cb00cefa41261d38bfcf8639ab3f70305a5e1275657320&hflag=30&from_type=3&adg=c_4a1f36353c2362fe28aee6861062dd72&reqlabel=250528_l_f41c57a2c823f0c367805e8ec897caeb_-1_185bddb50fb388191d2ba546fffb9464&ibp=1&by=themis
+  ROM_URL: http://91io.cn/s/o9B9PTP/Joyui%E4%BD%93%E9%AA%8C%E7%89%88-MI6.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
